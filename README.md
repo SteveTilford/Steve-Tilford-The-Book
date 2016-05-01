@@ -8,7 +8,8 @@ As the book is written, there will be two parts: 1) public content, which is wha
 
 To get involved:
 
-Visit the book project page
-Visit GitBook and setup an account.
-Submit ideas, questions, topics, Chapters as Discussions
-You can read the book at bookproj.stevetilford.com and make comments, suggest corrections, and ask questions right on the pages.
+* Visit the book [project page](https://www.gitbook.com/book/stevetilford/steve-tilford-the-book/details)
+* Visit [GitBook](https://www.gitbook.com) and setup an account.
+* Submit ideas, questions, topics, Chapters as [Discussions](https://www.gitbook.com/book/stevetilford/steve-tilford-the-book/discussions)
+* You can read the book at [bookproj.stevetilford.com](http://bookproj.stevetilford.com/) and make comments
+*  suggest corrections, and ask questions right on the pages.
